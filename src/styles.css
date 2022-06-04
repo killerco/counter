@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 6rem;
+}
+
+#my-btn {
+  font-size: 3rem;
+  background-color: #0366d6;
+  color: #fff;
+  border: 0px;
+  padding: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 5rem;
+}
